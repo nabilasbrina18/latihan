@@ -13,6 +13,7 @@
 % if n > 70
 %     disp('anda lulus');
 % else
+
 %     disp('coba lagi');
 % end 
 
